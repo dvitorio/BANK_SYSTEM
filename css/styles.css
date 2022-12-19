@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+*{
+     margin: 0;
+     padding: 0;
+     font-family: 'Quicksand', sans-serif;
+}
+
+.center{
+     display: flex !important;
+     align-items: center !important;
+     justify-content: center !important;
+}
+
+body{
+     background-color: rgb(33, 63, 80);
+}
+
+.loginScreen{
+     background-color: rgb(221, 224, 230) !important;
+     border-radius: 8px !important;
+     max-width: 550px !important;
+}
+
+h6{
+     font-size: 0.8rem !important;
+}
+
+.midiasLogin{
+     cursor: pointer;
+     font-size: 1.25rem;
+}
+
+.navbar{
+     background-color: rgb(25, 47, 59) !important;
+}
+
+a:hover{
+     color: rgb(88, 149, 242) !important;
+}
+
+#operAccount{
+     border-radius: 6px !important;
+}
+
+#operAccount a:hover{
+     color: white !important; 
+}
+
